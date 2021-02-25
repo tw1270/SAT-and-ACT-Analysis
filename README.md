@@ -76,17 +76,17 @@ Lowest Participation Rate by State
 ### Data_Visualization
 ---
 Top 15 State in Sat participation
-![alt text](https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_1/Image/top_15_sat_participation_state.png)
+![alt text](https://github.com/tw1270/SAT-and-ACT-Analysis/blob/main/Image/top_15_sat_participation_state.png)
 
 This shows the Act Participation throughout the state(the darker the red more participation)
-<img src="https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_1/Image/Act%20Participation.png" style="float: left; margin: 20px; height: 55px">
+<img src="https://github.com/tw1270/SAT-and-ACT-Analysis/blob/main/Image/Act%20Participation.png" style="float: left; margin: 20px; height: 55px">
 
 State with both test Participation above 50%
-<img src="https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_1/Image/state_above_50.png" style="float: left; margin: 20px; height: 55px">
+<img src="https://github.com/tw1270/SAT-and-ACT-Analysis/blob/main/Image/state_above_50.png" style="float: left; margin: 20px; height: 55px">
 
 State with both test Participation below 52%
 
-<img src="https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_1/Image/state_belove_53.png" style="float: left; margin: 20px; height: 55px">
+<img src="https://github.com/tw1270/SAT-and-ACT-Analysis/blob/main/Image/state_belove_53.png" style="float: left; margin: 20px; height: 55px">
 
 
 ### Conclusions_and_Recommendations
